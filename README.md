@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently building **Full Stack Project**
+- 🔭 I’m currently building **YouTube Backend Application**
 
 - 🌱 I’m currently learning **about Next.js,TypeScript**
 
